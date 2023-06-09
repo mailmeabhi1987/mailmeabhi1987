@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mailmeabhi1987
+- 👋 Hi, I’m Abhishek Sharma
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
